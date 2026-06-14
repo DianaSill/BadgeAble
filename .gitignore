@@ -1,0 +1,21 @@
+# Build outputs
+**/bin/
+**/obj/
+*.dll
+*.exe
+*.pdb
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfvars
+
+# IDE
+.vs/
+*.suo
+*.user
+
+# OS
+Thumbs.db
+Desktop.ini
